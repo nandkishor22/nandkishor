@@ -1,4 +1,4 @@
-*{
+th*{
 margin: 0;
 padding: 0;
 font-family: 'Poppins', sans-serif;
@@ -57,7 +57,7 @@ transform: translate(-50%,-50%);
 text-align:center;
 }
 text-box h1{
-font-size: 72px;
+font-size: 62px;
 }
 .text-box p{
 margin: 20px 0 40px;
@@ -193,21 +193,21 @@ margin: 10px 0;
 box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
 .assignment{
-width: 80%;
+width:60%;
 margin: auto;
 text-align: center;
 padding-top: 100px;
 }
 h1{
-font-size: 38px;
-font-weight: 600;
+font-size: 34px;
+font-weight: 500;
 }
 p{
 color: #777;
-font-size: 14px;
-font-weight: 300;
-line-height: 22px;
-padding: 10px;
+font-size: 10px;
+font-weight: 250;
+line-height: 18px;
+padding: 6px;
 }
 .row{
 margin-top: 5%;
